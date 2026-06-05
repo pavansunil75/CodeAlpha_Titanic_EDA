@@ -1,4 +1,3 @@
-# CodeAlpha_Titanic_EDA
 # 🚢 Titanic Dataset – Exploratory Data Analysis (EDA)
 
 ### CodeAlpha Data Analytics Internship – Task 2
